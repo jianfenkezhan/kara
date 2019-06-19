@@ -8,7 +8,7 @@ To be honest, i like her. She is from a Game —— *Detroit: Become Human*, she
 >"I’ve only just been born. You can’t kill me, yet. Stop, you. Please stop! I’m scared. I want to live. I’m begging you"
 ——— By Kara
 
-Thanks to @coldbady
+Thanks to @coldbaby
 
 ## about the repo
 .......
