@@ -11,5 +11,5 @@ To be honest, i like her. She is from a Game —— *Detroit: Become Human*, she
 Thanks to @coldbaby
 
 ## about the repo
-.......
+.........
 

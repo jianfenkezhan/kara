@@ -1,0 +1,22 @@
+{
+  "name": "kara-js",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jianfenkezhan/kara.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "goooooog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jianfenkezhan/kara/issues"
+  },
+  "homepage": "https://github.com/jianfenkezhan/kara#readme"
+}
